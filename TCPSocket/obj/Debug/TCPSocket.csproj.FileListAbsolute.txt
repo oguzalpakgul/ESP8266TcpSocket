@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\bin\Debug\TCPSocket.exe.config
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\bin\Debug\TCPSocket.exe
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\bin\Debug\TCPSocket.pdb
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\bin\Debug\SimpleTCP.dll
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.Form1.resources
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.Properties.Resources.resources
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.csproj.CopyComplete
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.exe
+C:\Users\DELL\source\repos\TCPSocket\TCPSocket\obj\Debug\TCPSocket.pdb
